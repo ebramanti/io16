@@ -46,5 +46,5 @@
 - Open standard, plugin-free, no new permissions exposed
 - Familiar toolchain, interops with JS
 - Same browser sandbox
-- Experimental suppot in Chrome, Firefox, and Edge, Chrome on Android
+- Experimental support in Chrome, Firefox, and Edge, Chrome on Android
 - Demo: [http://webassembly.github.io/demo/](http://webassembly.github.io/demo/)

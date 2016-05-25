@@ -3,7 +3,7 @@
 
 
 ## Polymer's Mission
-- Provide tools and libraries for using the latest web platoform features to build progressive web apps.
+- Provide tools and libraries for using the latest web platform features to build progressive web apps.
 - Simple mission: **Use the platform** to deliver **great user experiences**.
 
 ## HTML

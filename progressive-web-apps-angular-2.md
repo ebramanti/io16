@@ -38,7 +38,7 @@
 
 ### Template Compilation
 - Building apps for speed requires compiled templates
-- To compile Angular 1, go from xhr -> parser -> dom -> Angular 1
+- To compile Angular 1, go from xhr -> parser -> DOM -> Angular 1
 - In Angular 2, template -> parser -> AST -> Source(JS)
 - So it's just source -> browser, which compresses the code
 - Hello World Angular1 to Angular2: 118KB -> 22KB
