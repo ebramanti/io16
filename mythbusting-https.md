@@ -1,4 +1,5 @@
 # Mythbusting HTTPS: Squashing security’s urban legends
+[![Mythbusting HTTPS](http://img.youtube.com/vi/YMfW1bfyGSY/0.jpg)](http://www.youtube.com/watch?v=YMfW1bfyGSY)
 
 ## Journey begins in 2010
 - Deep sleep, wake up in 2016
@@ -23,7 +24,7 @@
 ### My site's not important enough for HTTPS.
 - Alice runs an online travel guide
 - No security, no sensitive content
-- No need for HTTPS?	
+- No need for HTTPS?
 - One day, person says website is slow and sluggish
 - Goes over to person's house, checks what is going on
 - Ads are being injected into Alice's site.
@@ -101,8 +102,3 @@
 - HTTPS used to be hard, slow and expensive.
 - In 2016, HTTPS is faster, easier and cheaper
 - A requirement for progressive web apps
-
-   
-
-
-

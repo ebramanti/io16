@@ -1,4 +1,5 @@
 # DevTools in 2016: Accelerate your workflow
+[![DevTools in 2016](http://img.youtube.com/vi/x8u0n4dT-WI/0.jpg)](http://www.youtube.com/watch?v=x8u0n4dT-WI)
 
 Authoring, Application and JavaScript
 

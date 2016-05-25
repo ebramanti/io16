@@ -1,4 +1,6 @@
 # Angular 2 and Progressive Web Apps
+[![Mythbusting HTTPS](http://img.youtube.com/vi/vAb-2d1vcg8/0.jpg)](http://www.youtube.com/watch?v=vAb-2d1vcg8)
+
 ## The Web
 - Web 1.0 - Synchronous
 - Web 2.0 - Single Page Apps, Ajax
@@ -66,6 +68,3 @@
 
 ### This is just the beginning for Angular 2.
 - See Issue Zero example - [github.com/angular/issue-zero](github.com/angular/issue-zero)
-
-
-

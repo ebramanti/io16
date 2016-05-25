@@ -1,4 +1,6 @@
 # Polymer and Progressive Web Apps: Building on the modern web
+[![Mythbusting HTTPS](http://img.youtube.com/vi/fFF2Yup2dMM/0.jpg)](http://www.youtube.com/watch?v=fFF2Yup2dMM)
+
 
 ## Polymer's Mission
 - Provide tools and libraries for using the latest web platoform features to build progressive web apps.
@@ -79,4 +81,3 @@
 ## Delivering Apps
 - How do we deliver an app without a splash screen?
 - Web components, HTTP/2, Server Push, Service Worker
-

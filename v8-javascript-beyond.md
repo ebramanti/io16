@@ -1,4 +1,6 @@
 # V8, modern JavaScript, and beyond
+[![V8, modern JavaScript, and beyond](http://img.youtube.com/vi/N1swY14jiKc/0.jpg)](http://www.youtube.com/watch?v=N1swY14jiKc)
+
 ## V8's mission
 > Speed up real-world performance for modern JavaScript, and enable developers to build a faster future web.
 

@@ -1,4 +1,6 @@
 # Fast and resilient web apps: Tools and techniques for delivering great user experiences
+[![Fast and resilient web apps](http://img.youtube.com/vi/aqvz5Oqs238/0.jpg)](http://www.youtube.com/watch?v=aqvz5Oqs238)
+
 Why carving out the "fast path" is not enough
 
 ## Resilient
